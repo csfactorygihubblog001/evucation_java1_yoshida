@@ -1,4 +1,4 @@
-1:
+1:Quest01Uemuraを参考して
 Quest01Yoshida
 Quest01Imafuku
 を作成する。
@@ -15,4 +15,5 @@ Quest01Imafukuでは
 部屋番号 = 13
 を作成しSystem.outでコンソールに上記を出力(setterGetter1クラスのprintを呼び出せば出力する)
 
-
+それぞれQuest01YoshidaとQuest01Imafukuを実行し
+コンソールに出力されたらgitにコミット＆PUSHする
