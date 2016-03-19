@@ -1,0 +1,18 @@
+1:
+Quest01Yoshida
+Quest01Imafuku
+を作成する。
+
+Quest01Yoshidaでは
+名前 = 吉田
+年齢 = 8
+部屋番号 = 4
+を作成しSystem.outでコンソールに上記を出力(setterGetter1クラスのprintを呼び出せば出力する)
+
+Quest01Imafukuでは
+名前 = 今福
+年齢 = 92
+部屋番号 = 13
+を作成しSystem.outでコンソールに上記を出力(setterGetter1クラスのprintを呼び出せば出力する)
+
+
