@@ -4,8 +4,15 @@ import java.util.List;
 
 public abstract  class AbstractParent {
 
-	public static AbstractParent getChild(){
-		return new Chaild003();
+	public static AbstractParent getChild(String flg){
+		if(flg.equals("1")){
+			return new Chaild001();
+		}else if(flg.equals("2")){
+			return new Chaild002();
+		}else if(flg.equals("3")){
+			return new Chaild003();
+		}
+		return null;
 	}
 
 

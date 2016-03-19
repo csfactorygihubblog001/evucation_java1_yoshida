@@ -13,7 +13,7 @@ public class Main {
 		list.add("dddddd");
 
 
-		AbstractParent a = AbstractParent.getChild();
+		AbstractParent a = AbstractParent.getChild(args[0]);
 		a.executeLoop(list);
 	}
 
