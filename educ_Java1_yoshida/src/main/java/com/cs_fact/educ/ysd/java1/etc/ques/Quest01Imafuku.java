@@ -7,7 +7,7 @@ public class Quest01Imafuku {
 		SetterGetter1 c = new SetterGetter1();
 		c.setNamae("今福");
 		c.setNenrei(92);
-		c.setHeyabangou(13);
+		c.setHeyabangou("A105");
 		
 		c.print();
 	}
