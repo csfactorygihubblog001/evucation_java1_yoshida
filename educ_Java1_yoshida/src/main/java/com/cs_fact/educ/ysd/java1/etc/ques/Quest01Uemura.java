@@ -10,6 +10,9 @@ public class Quest01Uemura {
 		a.setHeyabangou("1");
 
 		a.print();
+		SetterGetter2 c2 = new SetterGetter2();
+		c2.namae = "上村";
+		c2.nenrei = 3;
 
 	}
 

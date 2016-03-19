@@ -1,4 +1,4 @@
-package com.cs_fact.educ.ysd.java1.etc.ques02;
+package com.cs_fact.educ.ysd.java1.etc.ques02.tokyo;
 
 public class Chaild001  extends AbstractParent{
 

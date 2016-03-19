@@ -1,4 +1,4 @@
-package com.cs_fact.educ.ysd.java1.etc.ques02;
+package com.cs_fact.educ.ysd.java1.etc.ques02.tokyo;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -15,6 +15,7 @@ public class Chaild002  extends AbstractParent{
 			BufferedWriter bw = new BufferedWriter(new FileWriter(file));
 			FileOutputStream ofs = new FileOutputStream(file);
 			bw.write(a + "\r\n");
+			bw.flush();bw.close();
 		} catch (IOException e) {
 			throw new RuntimeException(e);
 		}

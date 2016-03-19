@@ -1,4 +1,4 @@
-package com.cs_fact.educ.ysd.java1.etc.ques02;
+package com.cs_fact.educ.ysd.java1.etc.ques02.tokyo;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -13,6 +13,7 @@ public class Chaild003  extends AbstractParent{
 			File file = new File("d:\\child03.txt");
 			BufferedWriter bw = new BufferedWriter(new FileWriter(file,true));
 			bw.write(a + "\r\n");
+			bw.flush();bw.close();
 		} catch (IOException e) {
 			throw new RuntimeException(e);
 		}
