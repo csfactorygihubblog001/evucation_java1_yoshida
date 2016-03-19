@@ -7,7 +7,7 @@ public class Quest01Uemura {
 		SetterGetter1 a = new  SetterGetter1();
 		a.setNamae("上村");
 		a.setNenrei(89);
-		a.setHeyabangou(1);
+		a.setHeyabangou("1");
 
 		a.print();
 

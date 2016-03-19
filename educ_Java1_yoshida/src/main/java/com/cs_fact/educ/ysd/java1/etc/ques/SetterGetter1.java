@@ -5,7 +5,8 @@ public class SetterGetter1 {
 
 	private String namae;
 	private int nenrei;
-	private int heyabangou;
+	private String heyabangou;
+	
 	public String getNamae() {
 		return namae;
 	}
@@ -18,10 +19,10 @@ public class SetterGetter1 {
 	public void setNenrei(int nenrei) {
 		this.nenrei = nenrei;
 	}
-	public int getHeyabangou() {
+	public String getHeyabangou() {
 		return heyabangou;
 	}
-	public void setHeyabangou(int heyabangou) {
+	public void setHeyabangou(String heyabangou) {
 		this.heyabangou = heyabangou;
 	}
 
