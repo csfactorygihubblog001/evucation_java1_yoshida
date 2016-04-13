@@ -1,0 +1,1 @@
+select 100/0 from dual

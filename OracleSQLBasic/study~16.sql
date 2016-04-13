@@ -1,0 +1,1 @@
+select * from JOB_HISTORY where DEPARTMENT_ID <50 or DEPARTMENT_ID >110

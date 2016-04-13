@@ -1,0 +1,1 @@
+select 100/null "100‚ðnull‚ÅŠ„‚Á‚½Œ‹‰Ê" from dual

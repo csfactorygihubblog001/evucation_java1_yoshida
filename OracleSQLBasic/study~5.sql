@@ -1,0 +1,1 @@
+select 100*12 "Ž®‚ÌŒ‹‰Ê" from dual

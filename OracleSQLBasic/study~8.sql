@@ -1,0 +1,1 @@
+select * from JOBS where 1 = 1

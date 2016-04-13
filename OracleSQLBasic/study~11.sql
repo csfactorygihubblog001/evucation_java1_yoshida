@@ -1,0 +1,1 @@
+select * from JOB_HISTORY where DEPARTMENT_ID = 80 and JOB_ID = 'SA_REP'

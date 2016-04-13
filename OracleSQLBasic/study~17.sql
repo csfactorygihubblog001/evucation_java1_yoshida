@@ -1,0 +1,1 @@
+select * from JOB_HISTORY where JOB_ID in('IT_PROG','AC_MGR','MK_REP')

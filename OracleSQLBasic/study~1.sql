@@ -1,0 +1,1 @@
+select 8 * 16 from dual

@@ -1,0 +1,1 @@
+select * from JOB_HISTORY where JOB_ID != 'IT_PROG' and JOB_ID != 'AC_MGR'
